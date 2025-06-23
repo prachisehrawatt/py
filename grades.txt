@@ -1,0 +1,5 @@
+Name: Prachi, Grade: A
+Name: Niket, Grade: B
+Name: Sam, Grade: C
+Name: Daniel, Grade: A
+Name: Ram, Grade: B
